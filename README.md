@@ -17,9 +17,8 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RoniZtnn&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
-### ✍️ Random Dev Quote
-
 <div align="center">
+### ✍️ Random Dev Quote
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
